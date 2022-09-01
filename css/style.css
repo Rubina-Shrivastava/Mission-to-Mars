@@ -1,0 +1,16 @@
+
+    body {
+
+        color: black;
+        font-family: Verdana;
+      }
+    
+      .jumbotron {
+        background-image: url('../images/mars.jpg');
+        background-size: 100% 100%;
+        opacity: 1;
+        text-align: center;
+        color: hsl(66, 94%, 50%);
+        
+        
+      } 
